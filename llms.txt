@@ -1,0 +1,29 @@
+# Puzzle Cats
+
+> Canadian game studio and related-publisher game catalogue.
+
+## Official pages
+- [/](https://www.puzzlecats.com/)
+- [/games/](https://www.puzzlecats.com/games/)
+- [/games/spider-solitaire/](https://www.puzzlecats.com/games/spider-solitaire/)
+- [/games/car-games/](https://www.puzzlecats.com/games/car-games/)
+- [/games/block-puzzle/](https://www.puzzlecats.com/games/block-puzzle/)
+- [/games/word-hunt/](https://www.puzzlecats.com/games/word-hunt/)
+- [/games/merge-clash/](https://www.puzzlecats.com/games/merge-clash/)
+- [/games/sudoku/](https://www.puzzlecats.com/games/sudoku/)
+- [/games/minesweeper/](https://www.puzzlecats.com/games/minesweeper/)
+- [/games/solitaire-word-associations/](https://www.puzzlecats.com/games/solitaire-word-associations/)
+- [/games/solitaire-explorer-tripeaks/](https://www.puzzlecats.com/games/solitaire-explorer-tripeaks/)
+- [/privacy-policy/](https://www.puzzlecats.com/privacy-policy/)
+- [/terms-of-use/](https://www.puzzlecats.com/terms-of-use/)
+- [/guides/choosing-a-minesweeper-game/](https://www.puzzlecats.com/guides/choosing-a-minesweeper-game/)
+- [/guides/minesweeper-3bv-and-stats/](https://www.puzzlecats.com/guides/minesweeper-3bv-and-stats/)
+- [/guides/choosing-a-solitaire-game/](https://www.puzzlecats.com/guides/choosing-a-solitaire-game/)
+- [/guides/tripeaks-solitaire-strategy/](https://www.puzzlecats.com/guides/tripeaks-solitaire-strategy/)
+- [/guides/hearts-shoot-the-moon/](https://www.puzzlecats.com/guides/hearts-shoot-the-moon/)
+- [/guides/word-solitaire-game-types/](https://www.puzzlecats.com/guides/word-solitaire-game-types/)
+- [/guides/block-puzzle-strategy/](https://www.puzzlecats.com/guides/block-puzzle-strategy/)
+- [/guides/merge-games-explained/](https://www.puzzlecats.com/guides/merge-games-explained/)
+- [/blog/](https://www.puzzlecats.com/blog/)
+
+Feature availability is stated on each game page. Coming-soon features are not in the public release. Research goals do not establish clinical efficacy or institutional endorsement. This file is informational and is not a ranking or crawler-access mechanism.
