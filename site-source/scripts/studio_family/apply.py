@@ -14,7 +14,7 @@ def apply(out,brand,base='',exclude=()):
  bar='<nav class="pc-family" aria-label="Puzzle Cats studio family"><div class="pc-family-inner"><a class="pc-family-parent" href="'+parent+'"><span class="pc-family-mark" aria-hidden="true">✦</span> Puzzle Cats<span class="pc-family-context"> / A family of game studios</span></a><details><summary>Explore our studios</summary><div class="pc-family-menu">'+''.join(link(s) for s in studios)+'</div></details></div></nav>'
  footer='<aside class="pc-family-footer" aria-label="More from the Puzzle Cats family"><div class="pc-family-footer-inner"><strong>More ways to play.</strong><p>Explore the Puzzle Cats family: word games, block puzzles, solitaire and driving games, each with a style of its own.</p><nav aria-label="Our family of studios">'+''.join(link(s).replace('<small>'+escape(s['kind'])+'</small>','') for s in studios)+'</nav></div></aside>'
  changed=[]
- for f in out.rglob('*.html'):
+ for f in sorted(out.rglob('*.html')):
   rel=f.relative_to(out).as_posix()
   if any(rel==e or rel.startswith(e.rstrip('/')+'/') for e in exclude):continue
   text=f.read_text()
@@ -23,6 +23,6 @@ def apply(out,brand,base='',exclude=()):
   text=text.replace('</head>','<link rel="stylesheet" href="'+base+'/studio-family/family.css"></head>',1)
   text=re.sub(r'(<body\b[^>]*>)',lambda m:m[1]+bar,text,count=1,flags=re.I)
   text=text.replace('</body>',footer+'</body>',1);f.write_text(text);changed.append(rel)
- manifest={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in HERE.iterdir() if p.is_file() and p.suffix in ['.py','.json','.css'] and p.name!='source-version.json'}
+ manifest={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(HERE.iterdir()) if p.is_file() and p.suffix in ['.py','.json','.css'] and p.name!='source-version.json'}
  (assets/'source-version.json').write_text(json.dumps(dict(version=1,brand=brand,source=manifest,pages=changed),indent=2)+'\n')
  return changed
