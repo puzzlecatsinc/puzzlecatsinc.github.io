@@ -1,0 +1,19 @@
+name: Verify site
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: site-source/package-lock.json
+      - run: npm ci
+        working-directory: site-source
+      - run: python3 scripts/prepare_pages_release.py --stage
+        working-directory: site-source
+      - run: git diff --exit-code

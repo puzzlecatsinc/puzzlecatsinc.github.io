@@ -1,0 +1,15 @@
+{
+  "measurementId": "G-C1HJXHG4QY",
+  "sets": {
+    "developer_id.dZGVlNj": true,
+    "developer_id.dYWYxNW": true
+  },
+  "config": {},
+  "allowedHosts": [
+    "puzzlecats.com",
+    "www.puzzlecats.com"
+  ],
+  "source": "https://www.puzzlecats.com/",
+  "verified": "2026-11-01",
+  "delivery": "Direct Google loader already observed on live; Webflow-only first-party gateway is not copied. Localhost and other preview domains never load analytics."
+}

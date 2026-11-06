@@ -1,0 +1,112 @@
+[
+  {
+    "legacyArticleId": 1,
+    "slug": "tripeaks-solitaire-strategy",
+    "title": "TriPeaks Solitaire Strategy: Plan Runs, Reveals and Stock Draws",
+    "description": "Practical TriPeaks solitaire strategy: compare visible routes, uncover useful cards, manage the stock and check rule differences before chasing a streak.",
+    "published": "2026-02-18",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/tripeaks-solitaire-strategy.html",
+    "relatedGames": [
+      "solitaire-explorer-tripeaks",
+      "spider-solitaire"
+    ],
+    "sources": [
+      {
+        "title": "TriPeaks.to: version-specific rules, wrapping and scoring",
+        "url": "https://www.tripeaks.to/rules"
+      },
+      {
+        "title": "Solitaire Explorer: Tripeaks — official App Store listing",
+        "url": "https://apps.apple.com/us/app/solitaire-explorer-tripeaks/id6759250551"
+      }
+    ],
+    "metaTitle": "TriPeaks Solitaire Strategy & Tips | Puzzle Cats"
+  },
+  {
+    "legacyArticleId": 2,
+    "slug": "hearts-shoot-the-moon",
+    "title": "How to Shoot the Moon in Hearts: Control, Scoring and Defense",
+    "description": "Understand shooting the moon in Hearts, evaluate your hand, track who captures points and know when to abandon or defend against an attempt.",
+    "published": "2026-02-18",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/hearts-shoot-the-moon.html",
+    "relatedGames": [
+      "spider-solitaire"
+    ],
+    "sources": [
+      {
+        "title": "Bicycle: Hearts rules and scoring",
+        "url": "https://bicyclecards.com/how-to-play/hearts"
+      }
+    ],
+    "metaTitle": "How to Shoot the Moon in Hearts | Puzzle Cats"
+  },
+  {
+    "legacyArticleId": 3,
+    "slug": "word-solitaire-game-types",
+    "title": "What Is Word Solitaire? Category Cards vs Letter-Connecting Games",
+    "description": "Compare word-category solitaire with letter-connecting puzzles. Learn how the rules, move limits and useful strategies differ before choosing a game.",
+    "published": "2026-02-18",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/word-solitaire-game-types.html",
+    "relatedGames": [
+      "solitaire-word-associations",
+      "word-hunt"
+    ],
+    "sources": [
+      {
+        "title": "Solitaire Word Associations — official App Store listing",
+        "url": "https://apps.apple.com/us/app/solitaire-word-associations/id6756082372"
+      },
+      {
+        "title": "Word Hunt — official App Store listing",
+        "url": "https://apps.apple.com/us/app/word-games-connect-puzzles/id1357352041"
+      }
+    ],
+    "metaTitle": "Word Solitaire: Category Cards vs Letters | Puzzle Cats"
+  },
+  {
+    "legacyArticleId": 4,
+    "slug": "block-puzzle-strategy",
+    "title": "Block Puzzle Strategy: Keep Space for Your Next Move",
+    "description": "Plan smarter block placements, keep room for awkward shapes, and choose when to clear a line.",
+    "published": "2026-02-18",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/block-puzzle-strategy.html",
+    "relatedGames": [
+      "block-puzzle",
+      "sudoku"
+    ],
+    "sources": [
+      {
+        "title": "Block Puzzle — official App Store listing",
+        "url": "https://apps.apple.com/us/app/block-games-block-puzzle/id1356820483"
+      },
+      {
+        "title": "Haier et al. (2009): Tetris practice and MRI measures in adolescent girls",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2746806/"
+      }
+    ],
+    "metaTitle": "Block Puzzle Strategy: Plan Better Moves | Puzzle Cats"
+  },
+  {
+    "legacyArticleId": 5,
+    "slug": "merge-games-explained",
+    "title": "What Are Merge Games? Rules, Game Types and Better Decisions",
+    "description": "Understand collection, puzzle and battle merge games, compare combination rules and learn why a higher-level merge is not always a better move.",
+    "published": "2026-02-18",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/merge-games-explained.html",
+    "relatedGames": [
+      "merge-clash"
+    ],
+    "sources": [
+      {
+        "title": "Merge Clash: Tower Defense — official App Store listing",
+        "url": "https://apps.apple.com/us/app/merge-clash-tower-defense/id1506854108"
+      }
+    ],
+    "metaTitle": "Merge Games Explained: Rules & Strategy | Puzzle Cats"
+  }
+]

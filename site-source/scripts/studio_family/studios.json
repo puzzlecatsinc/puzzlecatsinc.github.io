@@ -1,0 +1,32 @@
+[
+  {
+    "id": "puzzlecats",
+    "name": "Puzzle Cats",
+    "url": "https://www.puzzlecats.com/",
+    "kind": "Parent studio"
+  },
+  {
+    "id": "wordsearch",
+    "name": "Word Search Games",
+    "url": "https://wordsearchgamesinc.com/",
+    "kind": "Word games"
+  },
+  {
+    "id": "blockpuzzle",
+    "name": "Block Puzzle Games",
+    "url": "https://blockpuzzlegamesinc.com/",
+    "kind": "Block & tile puzzles"
+  },
+  {
+    "id": "solitaire",
+    "name": "Solitaire Games",
+    "url": "https://solitairegamesfreeinc.com/",
+    "kind": "Card games"
+  },
+  {
+    "id": "cargames",
+    "name": "Car Games",
+    "url": "https://www.cargamesinc.com/",
+    "kind": "Driving, racing & parking"
+  }
+]

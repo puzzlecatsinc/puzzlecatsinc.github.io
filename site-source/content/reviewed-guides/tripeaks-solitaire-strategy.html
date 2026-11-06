@@ -1,0 +1,32 @@
+<p>TriPeaks solitaire gives you a small decision with every card: take the obvious move, or choose a route that opens more of the board? A useful strategy is to compare the next few visible moves before committing. Long runs are satisfying, but revealing a blocked card or saving a useful connection can matter more than extending a streak.</p>
+
+<h2 id="rules">Check the rules of your TriPeaks version</h2>
+<p>The usual move is to remove an exposed tableau card one rank above or below the top waste card. A 7 can accept a 6 or an 8, regardless of suit. Clearing the tableau is the goal. When no useful move is available, a stock draw changes the waste card. Details differ: <a href="https://www.tripeaks.to/rules">this playable TriPeaks ruleset</a>, for example, changes King–Ace wrapping and card visibility between difficulty settings.</p>
+<p>Before planning a run, check three things in your own game: whether Kings connect to Aces, whether covered cards are visible, and whether the stock can be reused. Also read how streaks and stock draws affect scoring. A strategy for maximizing a score can differ from a strategy for clearing a difficult board.</p>
+
+<h2 id="strategy">Compare routes, not just individual cards</h2>
+<h3>Trace the visible continuation</h3>
+<p>Suppose the waste is a 7 and both a 6 and an 8 are exposed. If an accessible 5 can follow the 6, that side offers a visible two-card route. If removing the 8 would unlock a covered card, it offers new information instead. Neither option is automatically better: compare the cards you can see, the stock remaining and the objective of this hand.</p>
+<p>Do not count a covered card as available just because its rank would fit. Trace the covering relationships as well as the ranks. A promising sequence is useful only if each card is exposed when you need it.</p>
+
+<h3>Notice the cards that connect two routes</h3>
+<p>An exposed card can be a bridge. For example, after moving from a 7 down to a 6, another 7 may let you turn upward toward an 8. Spending that second 7 earlier could remove the bridge. When two cards of the same rank are playable, compare what each one reveals before choosing between them.</p>
+
+<h3>Use reveals as a tiebreaker</h3>
+<p>If two choices have similar visible continuations, favoring the one that uncovers a card is a reasonable heuristic. It gives you another possible move and, in hidden-card versions, more information. It is not a guarantee: the newly revealed card might be unusable. Avoid treating “always uncover first” as a rule that overrides every visible alternative.</p>
+
+<h2 id="stock">Make each stock draw deliberate</h2>
+<p>Before drawing, rescan the exposed cards in both rank directions. It is easy to overlook a descending move while following an ascending run. If a legal route remains, compare taking it with the consequences of drawing under your game’s scoring rules.</p>
+<p>In a one-pass version, every draw uses a limited opportunity to change rank. Near the end, think about the ranks your remaining cards need. With a waste 4 and an exposed 9, for instance, you need another connection; repeatedly tapping the 9 will not make it legal. This sounds simple, but naming the missing connection helps explain why a hand became stuck.</p>
+
+<h2 id="practice">Learn from each hand</h2>
+<p>If your version offers undo, replay a fork to see what the alternative reveals. Treat that as a learning exercise; a replay informed by hidden cards is different from solving the original deal. Keep scoring comparisons within the same ruleset, and separate clearing the board from achieving a high score.</p>
+<p>Hidden cards and the stock order limit what you can know. A lost hand does not prove every earlier choice was wrong. A more useful review question is: “Was there an exposed route I missed, or did I knowingly choose a reveal over a longer run?”</p>
+
+<h2 id="faq">TriPeaks questions</h2>
+<h3>Can you play an Ace on a King?</h3>
+<p>Only when your version allows wrapping. Check the in-game rules before planning a route across that boundary.</p>
+<h3>Should you clear all three peaks evenly?</h3>
+<p>Balance is a useful prompt to inspect neglected cards, rather than a requirement. A route through one peak can still be the best available way to open the board.</p>
+<h3>Where can I try a scenic TriPeaks game?</h3>
+<p><a href="{{base}}/games/solitaire-explorer-tripeaks/">Solitaire Explorer: Tripeaks</a> pairs TriPeaks boards with journey-map progression through natural settings. Its <a href="https://apps.apple.com/us/app/solitaire-explorer-tripeaks/id6759250551">official iPhone and iPad listing</a> describes readable cards and changing destinations. Check its in-game rules for the precise scoring and card-play details.</p>

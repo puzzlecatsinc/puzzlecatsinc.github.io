@@ -1,0 +1,451 @@
+{
+  "title": "Puzzle Cats | Solitaire, Word, Block & Puzzle Games",
+  "description": "Discover games from Puzzle Cats, a Canadian game studio creating solitaire, word, block, driving and merge games. Meet the team and explore our research interests.",
+  "canonical": "https://www.puzzlecats.com",
+  "careers": "https://puzzle-cats.breezy.hr/",
+  "contact": "mailto:pete@puzzlecats.com?subject=Website%20Forward%20Mail",
+  "research": "We’re working with researchers, PhDs and professors affiliated with leading Canadian universities and research institutions, including the Centre for Addiction and Mental Health (CAMH) and Wilfrid Laurier University, to explore mental health, cognitive health and the experience of play.",
+  "researchGoal": "Our goal is to explore how play might support cognitive health and help people keep their minds engaged as they age. These are research goals, not demonstrated health outcomes.",
+  "hero": "We don’t just make games—we dream big, create with purpose, and push the boundaries of play. We’re a Canadian game studio creating games that challenge, engage, and connect.",
+  "about": "We’re a passionate team driven by curiosity and innovation. We push the boundaries of gaming experiences by embracing the latest technology, AI, and bold design. Our mission is to create unforgettable moments that captivate players, challenge conventions, and shape the future of play. To us, play isn’t just entertainment—it’s an ever-evolving journey, and we’re here to lead the way.",
+  "games": [
+    {
+      "name": "Spider Solitaire",
+      "copy": "Build complete runs, uncover hidden cards and enjoy a classic solitaire challenge.",
+      "image": "game-1.webp",
+      "apple": "https://apps.apple.com/us/app/spider-solitaire-card-games/id1447178516",
+      "google": "https://play.google.com/store/apps/details?id=com.spider.solitaire.free.card.games",
+      "slug": "spider-solitaire",
+      "appId": "1447178516",
+      "publisher": "Solitaire Games Free Inc.",
+      "officialName": "Spider Solitaire Card Games ·",
+      "steps": [
+        "Move cards by tapping or dragging.",
+        "Build complete sequences and uncover the cards below.",
+        "Start another hand without a lives limit."
+      ],
+      "screenshots": [
+        "1447178516-screen-1.webp",
+        "1447178516-screen-2.webp",
+        "1447178516-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1447178516-screen-1.webp": [
+          405,
+          228
+        ],
+        "1447178516-screen-2.webp": [
+          392,
+          696
+        ],
+        "1447178516-screen-3.webp": [
+          392,
+          696
+        ]
+      },
+      "imageSize": [
+        882,
+        1100
+      ],
+      "category": "Card & solitaire",
+      "publicIos": {
+        "version": "5.9",
+        "released": "2026-10-22",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1447178516"
+      }
+    },
+    {
+      "name": "Car Games",
+      "copy": "Get behind the wheel and explore a world of driving challenges.",
+      "image": "game-2.webp",
+      "apple": "https://apps.apple.com/us/app/car-games/id1478453789?ls=1",
+      "google": "https://play.google.com/store/apps/details?id=car.games.driving.simulator",
+      "slug": "car-games",
+      "appId": "1478453789",
+      "publisher": "C.A.R. GAMES INC.",
+      "officialName": "Car Games ·",
+      "steps": [
+        "Explore the driving world and take on missions.",
+        "Take on missions and upgrade your vehicles.",
+        "Find your own route through the driving world."
+      ],
+      "screenshots": [
+        "1478453789-screen-1.webp",
+        "1478453789-screen-2.webp",
+        "1478453789-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1478453789-screen-1.webp": [
+          405,
+          228
+        ],
+        "1478453789-screen-2.webp": [
+          405,
+          228
+        ],
+        "1478453789-screen-3.webp": [
+          405,
+          228
+        ]
+      },
+      "imageSize": [
+        900,
+        900
+      ],
+      "category": "Driving & simulation",
+      "publicIos": {
+        "version": "9.4",
+        "released": "2026-05-05",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1478453789"
+      }
+    },
+    {
+      "name": "Block Puzzle",
+      "copy": "Find the perfect fit. Place blocks, clear lines and plan your next move.",
+      "image": "game-3.webp",
+      "apple": "https://apps.apple.com/us/app/block-games-block-puzzle/id1356820483",
+      "google": "https://play.google.com/store/apps/details?id=free.games.block.puzzle.board.strategy",
+      "slug": "block-puzzle",
+      "appId": "1356820483",
+      "publisher": "Block Puzzle Games Inc.",
+      "officialName": "Block Puzzle ·",
+      "steps": [
+        "Place blocks in open spaces on the grid.",
+        "Complete lines to clear room for the next pieces.",
+        "Plan ahead and challenge your high score."
+      ],
+      "screenshots": [
+        "1356820483-screen-1.webp",
+        "1356820483-screen-2.webp",
+        "1356820483-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1356820483-screen-1.webp": [
+          392,
+          696
+        ],
+        "1356820483-screen-2.webp": [
+          392,
+          696
+        ],
+        "1356820483-screen-3.webp": [
+          392,
+          696
+        ]
+      },
+      "imageSize": [
+        900,
+        900
+      ],
+      "category": "Block & logic",
+      "publicIos": {
+        "version": "10.2",
+        "released": "2026-09-24",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1356820483"
+      },
+      "browser": "https://blockpuzzlegamesinc.com/blockpuzzle/"
+    },
+    {
+      "name": "Word Hunt",
+      "copy": "Connect letters and discover words, one satisfying puzzle at a time.",
+      "image": "game-4.webp",
+      "apple": "https://apps.apple.com/us/app/word-games-connect-puzzles/id1357352041?ls=1",
+      "google": "https://play.google.com/store/apps/details?id=word.hunt.connect",
+      "slug": "word-hunt",
+      "appId": "1357352041",
+      "publisher": "Word Search Games Inc.",
+      "officialName": "Word Hunt ·",
+      "steps": [
+        "Swipe through letters to discover words.",
+        "Complete puzzles to earn in-game coins.",
+        "On iPhone and iPad, play without timers or a lives limit."
+      ],
+      "screenshots": [
+        "1357352041-screen-1.webp",
+        "1357352041-screen-2.webp",
+        "1357352041-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1357352041-screen-1.webp": [
+          392,
+          696
+        ],
+        "1357352041-screen-2.webp": [
+          392,
+          696
+        ],
+        "1357352041-screen-3.webp": [
+          392,
+          696
+        ]
+      },
+      "imageSize": [
+        900,
+        900
+      ],
+      "category": "Word puzzles",
+      "publicIos": {
+        "version": "8.8",
+        "released": "2026-09-28",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1357352041"
+      }
+    },
+    {
+      "name": "Merge Clash",
+      "copy": "Merge your units, build your team and take your strategy into battle.",
+      "image": "game-5.webp",
+      "apple": "https://apps.apple.com/ca/app/merge-games/id1506854108",
+      "google": "https://play.google.com/store/apps/details?id=merge.clash&hl=en_CA&gl=US",
+      "slug": "merge-clash",
+      "appId": "1506854108",
+      "publisher": "Block Puzzle Games Inc.",
+      "officialName": "Merge Clash: Tower Defense",
+      "steps": [
+        "Choose five towers with different abilities.",
+        "Merge matching towers and adapt as the battle changes.",
+        "Play PvP battles or defend together in co-op."
+      ],
+      "screenshots": [
+        "1506854108-screen-1.webp",
+        "1506854108-screen-2.webp",
+        "1506854108-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1506854108-screen-1.webp": [
+          405,
+          228
+        ],
+        "1506854108-screen-2.webp": [
+          392,
+          696
+        ],
+        "1506854108-screen-3.webp": [
+          392,
+          696
+        ]
+      },
+      "imageSize": [
+        588,
+        588
+      ],
+      "category": "Tower defense & strategy",
+      "publicIos": {
+        "version": "15.0",
+        "released": "2026-09-04",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1506854108"
+      }
+    },
+    {
+      "name": "Sudoku",
+      "copy": "Take a quiet moment for numbers, logic and a fresh Sudoku puzzle.",
+      "image": "game-6.webp",
+      "apple": "https://apps.apple.com/us/app/sudoku-classic-puzzle-games/id1409781798?ls=1",
+      "google": "https://play.google.com/store/apps/details?id=com.puzzle.games.math.brain.sudoku",
+      "browser": "https://fishsudoku.com/",
+      "slug": "sudoku",
+      "appId": "1409781798",
+      "publisher": "Block Puzzle Games Inc.",
+      "officialName": "Sudoku· Classic Puzzle Games",
+      "steps": [
+        "Choose Easy, Medium, Hard or Expert puzzles.",
+        "Return for daily Sudoku challenges.",
+        "Use hints when you need them, or play offline."
+      ],
+      "screenshots": [
+        "1409781798-screen-1.webp",
+        "1409781798-screen-2.webp",
+        "1409781798-screen-3.webp"
+      ],
+      "screenSizes": {
+        "1409781798-screen-1.webp": [
+          392,
+          696
+        ],
+        "1409781798-screen-2.webp": [
+          392,
+          696
+        ],
+        "1409781798-screen-3.webp": [
+          392,
+          696
+        ]
+      },
+      "imageSize": [
+        619,
+        1100
+      ],
+      "category": "Number & logic",
+      "publicIos": {
+        "version": "9.9",
+        "released": "2026-10-23",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1409781798"
+      }
+    },
+    {
+      "name": "Minesweeper",
+      "copy": "Clear safe squares, follow numbered clues and flag suspected mines.",
+      "image": "game-7.webp",
+      "apple": "https://apps.apple.com/us/app/minesweeper/id1410833669?uo=4",
+      "google": null,
+      "slug": "minesweeper",
+      "appId": "1410833669",
+      "publisher": "Block Puzzle Games Inc.",
+      "officialName": "Minesweeper··",
+      "steps": [
+        "Read each number as the count of neighboring mines.",
+        "Flag squares you suspect contain a mine.",
+        "Open every safe square to finish the board."
+      ],
+      "screenshots": [
+        "1410833669-screen-1.webp",
+        "1410833669-screen-2.webp"
+      ],
+      "screenSizes": {
+        "1410833669-screen-1.webp": [
+          720,
+          1280
+        ],
+        "1410833669-screen-2.webp": [
+          720,
+          1280
+        ]
+      },
+      "imageSize": [
+        512,
+        512
+      ],
+      "category": "Mine-clearing logic",
+      "publicIos": {
+        "version": "2.1",
+        "released": "2020-08-20",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id1410833669"
+      }
+    },
+    {
+      "name": "Solitaire Word Associations",
+      "copy": "Sort word cards into categories and plan each move through a solitaire-style layout.",
+      "image": "game-8.webp",
+      "apple": "https://apps.apple.com/us/app/solitaire-word-associations/id6756082372?uo=4",
+      "google": "https://play.google.com/store/apps/details?id=com.solitaire.word.games.card",
+      "slug": "solitaire-word-associations",
+      "appId": "6756082372",
+      "publisher": "Solitaire Games Free Inc.",
+      "officialName": "Solitaire Word Associations",
+      "steps": [
+        "Place a category-heading card on a foundation.",
+        "Move matching word cards into the right category.",
+        "Clear the board within the move limit."
+      ],
+      "screenshots": [
+        "6756082372-screen-1.webp",
+        "6756082372-screen-2.webp",
+        "6756082372-screen-3.webp"
+      ],
+      "screenSizes": {
+        "6756082372-screen-1.webp": [
+          591,
+          1280
+        ],
+        "6756082372-screen-2.webp": [
+          591,
+          1280
+        ],
+        "6756082372-screen-3.webp": [
+          591,
+          1280
+        ]
+      },
+      "imageSize": [
+        512,
+        512
+      ],
+      "category": "Word categories & cards",
+      "publicIos": {
+        "version": "3.9",
+        "released": "2026-10-26",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id6756082372"
+      }
+    },
+    {
+      "name": "Solitaire Explorer: TriPeaks",
+      "copy": "Clear TriPeaks boards while following a scenic journey through changing destinations.",
+      "image": "game-9.webp",
+      "apple": "https://apps.apple.com/us/app/solitaire-explorer-tripeaks/id6759250551?uo=4",
+      "google": "https://play.google.com/store/apps/details?id=com.solitaire.journey.tri.peaks.explorer",
+      "slug": "solitaire-explorer-tripeaks",
+      "appId": "6759250551",
+      "publisher": "Solitaire Games Free Inc.",
+      "officialName": "Solitaire Explorer: Tripeaks",
+      "steps": [
+        "Look for available cards that connect to your current card.",
+        "Clear exposed cards to uncover more of the board.",
+        "Progress through the journey map and explore the next destination."
+      ],
+      "screenshots": [
+        "6759250551-screen-1.webp",
+        "6759250551-screen-2.webp",
+        "6759250551-screen-3.webp"
+      ],
+      "screenSizes": {
+        "6759250551-screen-1.webp": [
+          1280,
+          591
+        ],
+        "6759250551-screen-2.webp": [
+          1280,
+          591
+        ],
+        "6759250551-screen-3.webp": [
+          1280,
+          591
+        ]
+      },
+      "imageSize": [
+        512,
+        512
+      ],
+      "category": "TriPeaks cards",
+      "publicIos": {
+        "version": "1.0",
+        "released": "2026-10-08",
+        "price": 0.0,
+        "currency": "USD",
+        "country": "US",
+        "checked": "2026-11-02",
+        "source": "https://apps.apple.com/us/app/id6759250551"
+      }
+    }
+  ]
+}

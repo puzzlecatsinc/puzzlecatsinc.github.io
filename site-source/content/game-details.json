@@ -1,0 +1,723 @@
+{
+  "spider-solitaire": {
+    "overview": [
+      "Spider Solitaire is about building order in a crowded tableau. Arrange cards into descending sequences, expose the cards underneath and work toward complete suited runs. Choosing which column to open can matter as much as the next available move: a useful empty column gives you room to reorganize cards that are blocking one another.",
+      "Tap or drag cards into place and keep playing without a lives limit on iPhone and iPad. Each new hand is another chance to uncover cards and build a cleaner tableau.",
+      "On Android, choose one, two or four suits, replay numbered shuffles and track your statistics. Unlimited undo, appearance options and left- or right-handed layouts let you settle into your preferred way to play."
+    ],
+    "featureRows": [
+      {
+        "feature": "Card controls and repeat play",
+        "evidence": "Tap or drag cards. Play unlimited games without a lives limit.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Suit choices and numbered shuffles",
+        "evidence": "Choose one, two or four suits and numbered shuffles.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Undo, statistics and appearance",
+        "evidence": "Use unlimited undo, track statistics and customize cards, backgrounds and handedness.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Offline and orientation options",
+        "evidence": "Play offline in portrait or landscape.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Advertising and purchases",
+        "evidence": "Android includes ads and in-app purchases. iOS offers an optional monthly ad-free subscription in supported regions.",
+        "platform": "Platform and region dependent"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Choosing a Spider challenge",
+        "paragraphs": [
+          "One suit lets you concentrate on exposing cards and organizing columns. More suits add another constraint: a descending group is not necessarily a complete suited run."
+        ]
+      },
+      {
+        "title": "A practical way to approach a hand",
+        "paragraphs": [
+          "Look for moves that expose a face-down card, then consider whether they leave useful space for later rearrangement. An empty column can be valuable flexibility. Before dealing another row, inspect the existing columns for opportunities you would otherwise cover."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Spider the same as Klondike solitaire?",
+        "answer": "No. Spider focuses on completing suited sequences across its tableau. Klondike uses a different deal, stock and foundation structure. Choose the ruleset you want rather than relying on the word solitaire alone."
+      },
+      {
+        "question": "Which Spider difficulty options can I choose?",
+        "answer": "On Android, choose one, two or four suits and keep track of your results with statistics."
+      },
+      {
+        "question": "Are there ads or purchases?",
+        "answer": "Android includes ads and in-app purchases. On iOS, an optional monthly subscription offers ad-free play in supported regions. See your store for current prices and renewal terms."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Spider Solitaire Card Games · on the App Store",
+        "url": "https://apps.apple.com/us/app/id1447178516"
+      },
+      {
+        "title": "Spider Solitaire on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.spider.solitaire.free.card.games"
+      }
+    ],
+    "guideSlugs": [
+      "choosing-a-solitaire-game",
+      "tripeaks-solitaire-strategy"
+    ],
+    "metaTitle": "Spider Solitaire: Plan Your Next Hand | Puzzle Cats",
+    "description": "Build suited runs and uncover hidden cards in Spider Solitaire. Tap or drag to play on iPhone and iPad, or choose one, two or four suits on Android."
+  },
+  "car-games": {
+    "overview": [
+      "Car Games combines driving exploration with missions and vehicle progression. The iPhone and iPad listing describes an online open world, a catalogue of more than 50 vehicles, missions that earn rewards and opportunities to buy and upgrade cars. This is a driving sandbox to explore, rather than a claim to reproduce a particular motorsport simulation.",
+      "Explore an online open world on iPhone and iPad, choose from more than 50 vehicles and earn rewards through missions. Buy and upgrade cars, take on city-boss races and drive with PlayStation or Xbox controllers on compatible devices.",
+      "On Android, take cars, buses and trucks into an open driving world. Tackle missions, ramps and races, or enjoy offline driving."
+    ],
+    "featureRows": [
+      {
+        "feature": "Open-world multiplayer",
+        "evidence": "Explore an online open world with multiplayer driving.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Vehicles and progression",
+        "evidence": "Choose from more than 50 vehicles, complete missions and upgrade your cars.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Controller support",
+        "evidence": "Drive with PlayStation or Xbox controllers on compatible devices.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Offline driving",
+        "evidence": "Drive offline, take on missions and ramps, and try different vehicle types.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Optional subscriptions",
+        "evidence": "Optional weekly, monthly and annual VIP offers include benefits such as online access, gas, exclusive cars and ad-free play.",
+        "platform": "iOS; terms and availability vary"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Choose by the kind of driving you enjoy",
+        "paragraphs": [
+          "For relaxed exploration, look at the world and available vehicles. For structured play, consider the missions and progression. If playing with other people is your priority, confirm the online mode and any access conditions on your platform before choosing an offer."
+        ]
+      },
+      {
+        "title": "Find your driving rhythm",
+        "paragraphs": [
+          "Explore at your own pace or give your next drive a goal with missions and upgrades. Choose the platform features that fit the way you like to play."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I use a controller?",
+        "answer": "On iPhone and iPad, Car Games supports PlayStation and Xbox controllers on compatible devices."
+      },
+      {
+        "question": "Can I play Car Games without internet?",
+        "answer": "Android offers an offline driving mode. On iPhone and iPad, explore the online open world. Online modes require a connection."
+      },
+      {
+        "question": "Are VIP options available?",
+        "answer": "On iOS, optional weekly, monthly and annual VIP offers provide additional benefits. See the App Store for current regional prices, renewal and cancellation terms."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Car Games · on the App Store",
+        "url": "https://apps.apple.com/us/app/id1478453789"
+      },
+      {
+        "title": "Car Games on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=car.games.driving.simulator"
+      }
+    ],
+    "guideSlugs": [],
+    "metaTitle": "Car Games: Open-World Driving for iPhone & Android | Puzzle Cats",
+    "description": "Explore an open driving world, take on missions and upgrade your vehicles in Car Games. Download for iPhone, iPad or Android and find your next drive."
+  },
+  "block-puzzle": {
+    "overview": [
+      "Block Puzzle turns a simple placement decision into a space-management challenge. Place shapes into open cells, complete lines to clear space and keep enough room for the next pieces. The iOS listing presents this core loop as a high-score game: each placement affects both the points available now and the spaces you will need later.",
+      "On Android, plan across an eight-by-eight grid with sets of three blocks. Clear multiple lines for bonuses and build a high score worth beating. Keep an eye on the shape of your open space as well as the number of empty cells.",
+      "Make room for your next move. A well-placed block can clear a line now while leaving a better opening for the shapes still to come."
+    ],
+    "featureRows": [
+      {
+        "feature": "Place blocks and clear lines",
+        "evidence": "Place shapes, clear completed lines and chase a high score.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Board and piece sets",
+        "evidence": "Plan on an eight-by-eight board with sets of three blocks.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Scoring and records",
+        "evidence": "Earn multiple-line bonuses and save your high score.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Offline play",
+        "evidence": "Take your block puzzles offline.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Ads and purchases",
+        "evidence": "See Google Play for ads, purchase options and current offers.",
+        "platform": "Android · store offers vary"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Make room for shapes, not just points",
+        "paragraphs": [
+          "Before placing the first piece in a set, consider where all the remaining shapes could fit. A narrow gap may count as empty space yet be unusable for the blocks you need to place. Completing a line can help, but leaving a flexible area for a large shape can sometimes be the more useful move."
+        ]
+      },
+      {
+        "title": "Keep the whole set in mind",
+        "paragraphs": [
+          "Before placing a block, look at all the shapes waiting for space. Flexible openings give you more choices as the board fills."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this the same as a falling-block game?",
+        "answer": "The listed core mechanic is placing supplied shapes into a grid and clearing completed lines. It should not be confused with a game where pieces continuously fall under a timer."
+      },
+      {
+        "question": "What can I track?",
+        "answer": "On Android, your saved high score gives you a target to beat in the next round."
+      },
+      {
+        "question": "Where can I find purchase information?",
+        "answer": "Your store shows current advertising disclosures, in-app purchase options and regional offers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Block Puzzle · on the App Store",
+        "url": "https://apps.apple.com/us/app/id1356820483"
+      },
+      {
+        "title": "Block Puzzle on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=free.games.block.puzzle.board.strategy"
+      }
+    ],
+    "guideSlugs": [
+      "block-puzzle-strategy"
+    ],
+    "metaTitle": "Block Puzzle: Place Blocks & Chase Your High Score | Puzzle Cats",
+    "description": "Make room for your next move in Block Puzzle. Place shapes, clear full lines and chase a new high score on iPhone, iPad and Android."
+  },
+  "word-hunt": {
+    "overview": [
+      "Word Hunt is a letter-connection puzzle: swipe through the available letters to discover words and complete a board. The challenge comes from seeing another arrangement in a familiar group of letters, rather than sorting complete word cards into categories or racing another player to claim a grid.",
+      "Take on thousands of puzzles at your own pace on iPhone and iPad, without timers or a lives limit. Complete puzzles to earn in-game coins as you find new arrangements in familiar letters.",
+      "On Android, connect letters through more than 10,000 puzzles and enjoy changing scenery as you progress."
+    ],
+    "featureRows": [
+      {
+        "feature": "Connect letters to make words",
+        "evidence": "Connect letters to solve word puzzles.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Untimed play without a lives limit",
+        "evidence": "Play at your own pace without timers or a lives limit.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Puzzle completion rewards",
+        "evidence": "Earn in-game coins by completing puzzles.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Levels and scenery",
+        "evidence": "Advance through word levels with changing scenery.",
+        "platform": "Android"
+      },
+      {
+        "feature": "Optional purchases",
+        "evidence": "An optional weekly subscription is available in supported regions. See your store for prices and renewal terms.",
+        "platform": "iOS; check local store terms"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A different kind of word game",
+        "paragraphs": [
+          "In a letter-connection puzzle you construct a word from individual letters. In a word-association card game, the words are already written and the task is to recognize their categories. Neither format is inherently better: choose spelling and pattern recognition, or category reasoning, according to the kind of puzzle you enjoy."
+        ]
+      },
+      {
+        "title": "Build a useful solving habit",
+        "paragraphs": [
+          "When a board stalls, try a different starting letter or look for common endings before repeating the same swipe. Changing the order in which you inspect the letters can reveal a word you overlooked."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Word Hunt a timed multiplayer word game?",
+        "answer": "This listing describes a level-based letter-connection puzzle. The iOS description explicitly says there are no timers or lives; it does not describe a head-to-head timed mode."
+      },
+      {
+        "question": "How many puzzles are there?",
+        "answer": "Enjoy thousands of puzzles on iPhone and iPad. The Android game offers more than 10,000 puzzles."
+      },
+      {
+        "question": "Are subscriptions available?",
+        "answer": "An optional weekly subscription is available on iOS in supported regions. See the App Store for the current offer and renewal terms."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Word Hunt · on the App Store",
+        "url": "https://apps.apple.com/us/app/id1357352041"
+      },
+      {
+        "title": "Word Hunt on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=word.hunt.connect"
+      }
+    ],
+    "guideSlugs": [
+      "word-solitaire-game-types"
+    ],
+    "metaTitle": "Word Hunt: Connect Letters & Discover Words | Puzzle Cats",
+    "description": "Connect letters and discover words in Word Hunt. Enjoy thousands of puzzles on iPhone and iPad, or more than 10,000 puzzles with changing scenery on Android."
+  },
+  "merge-clash": {
+    "overview": [
+      "Merge Clash: Tower Defense combines a five-tower deck with decisions made during a defensive battle. Choose towers with different abilities, develop your collection and decide when a merge is worth changing the board you already have. It belongs to the tower-defense side of merge games, rather than the falling-fruit or object-organization categories.",
+      "Build your collection of more than 50 towers and upgrade the ones that fit your strategy. Challenge rivals in PvP, defend together in co-op, or try Draft mode against bosses with different abilities.",
+      "Every merge asks you to adapt. Matching towers can turn into a different tower type, changing the roles available on your board and the choices for your next move."
+    ],
+    "featureRows": [
+      {
+        "feature": "Five-tower deck building",
+        "evidence": "Choose a deck of five towers with different abilities.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Tower collection and upgrades",
+        "evidence": "Collect more than 50 towers and develop your upgrades.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "PvP, co-op and Draft",
+        "evidence": "Challenge rivals, defend together in co-op and try Draft.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Merge outcomes",
+        "evidence": "Matching merges can change tower type, making adaptation part of the battle.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Ads and purchases",
+        "evidence": "Android includes ads and in-app purchases, including random items.",
+        "platform": "Android store disclosures"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Think about roles before a deck list",
+        "paragraphs": [
+          "Read what each tower contributes to the deck and consider what happens when a merge removes a useful role from the board. A strategy should account for the towers and upgrades you actually own. There is no single deck recommendation here that assumes every player has the same collection."
+        ]
+      },
+      {
+        "title": "Build a strategy around your collection",
+        "paragraphs": [
+          "Choose towers whose abilities work together, then adapt as the battle changes. Use the upgrades and towers you own to find a deck that suits your play style."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Merge Clash a fruit-merging puzzle?",
+        "answer": "No. This app is a tower-defense game built around tower decks, merges, enemies and battle modes."
+      },
+      {
+        "question": "Does merging always keep the same tower type?",
+        "answer": "No. The public descriptions explain that matching merges can produce a different tower type. Plan for an outcome that changes the composition of the board."
+      },
+      {
+        "question": "Which modes can I play?",
+        "answer": "Take on PvP battles, cooperative defense and Draft mode."
+      },
+      {
+        "question": "How many towers can I collect?",
+        "answer": "Build your collection from more than 50 towers and upgrade the ones that fit your deck."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Merge Clash: Tower Defense on the App Store",
+        "url": "https://apps.apple.com/us/app/id1506854108"
+      },
+      {
+        "title": "Merge Clash on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=merge.clash"
+      }
+    ],
+    "guideSlugs": [
+      "merge-games-explained"
+    ],
+    "metaTitle": "Merge Clash: PvP & Co-op Tower Defense | Puzzle Cats",
+    "description": "Build a five-tower deck and adapt to every merge in Merge Clash. Collect more than 50 towers, battle rivals and defend together in co-op on iOS and Android."
+  },
+  "sudoku": {
+    "overview": [
+      "Sudoku is a number-placement puzzle: fill a nine-by-nine grid so that each row, column and three-by-three box contains the digits one through nine without repetition. The numbers act as symbols, so progress comes from eliminating possibilities rather than performing arithmetic.",
+      "Choose Easy, Medium, Hard or Expert, then make the puzzle your own with candidate notes, hints and automatic checking. Daily challenges give you a fresh reason to return, and statistics help you follow your progress.",
+      "Play offline when you want a quiet number puzzle on hand. Whether you have a few minutes or time for a harder grid, choose the difficulty that fits your session."
+    ],
+    "featureRows": [
+      {
+        "feature": "Four named difficulty levels",
+        "evidence": "Choose Easy, Medium, Hard or Expert.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Daily puzzles",
+        "evidence": "Return for daily Sudoku challenges.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Notes, hints and checking",
+        "evidence": "Keep candidate notes, use hints and turn to automatic checking.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Statistics and offline play",
+        "evidence": "Track your statistics and play offline.",
+        "platform": "iOS and Android"
+      },
+      {
+        "feature": "Premium offer",
+        "evidence": "Optional monthly and annual premium offers are available on iOS in supported regions.",
+        "platform": "iOS; regional terms apply"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Look for a reason before entering a digit",
+        "paragraphs": [
+          "Start with a row, column or box that has relatively few empty cells. For each empty cell, consider which digits are excluded by its three units. Candidate notes can help keep that reasoning visible; they are most useful when you update them consistently after a confirmed placement."
+        ]
+      },
+      {
+        "title": "Choose how much help you want",
+        "paragraphs": [
+          "Use candidate notes to keep track of possibilities or turn to a hint when you want help taking the next step. Try a harder difficulty when you are ready for a longer challenge."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I choose the difficulty?",
+        "answer": "Yes. Choose Easy, Medium, Hard or Expert."
+      },
+      {
+        "question": "Can I use notes or hints?",
+        "answer": "Yes. Candidate notes, hints and automatic checking help you work through a grid."
+      },
+      {
+        "question": "Can I play offline?",
+        "answer": "Yes. Offline play is available on iOS and Android."
+      },
+      {
+        "question": "Are there daily puzzles and statistics?",
+        "answer": "Yes. Play daily Sudoku challenges and follow your progress with statistics."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sudoku· Classic Puzzle Games on the App Store",
+        "url": "https://apps.apple.com/us/app/id1409781798"
+      },
+      {
+        "title": "Sudoku on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.puzzle.games.math.brain.sudoku"
+      }
+    ],
+    "guideSlugs": [],
+    "metaTitle": "Sudoku: Daily Number Puzzles & Four Difficulties | Puzzle Cats",
+    "description": "Find your Sudoku rhythm with four difficulty levels, daily challenges, notes and hints. Track your progress and play offline on iPhone, iPad and Android."
+  },
+  "minesweeper": {
+    "overview": [
+      "Minesweeper asks you to clear safe cells while leaving the mines covered. A revealed number tells you how many mines touch that cell, including diagonally. Use overlapping clues to identify safe moves and place flags where you believe mines are located. The rules are compact, but careful deductions can connect information from several parts of a board.",
+      "Play classic boards offline on iPhone and iPad, use flags to mark mines and choose a difficulty for your next challenge. Automatic progress saving lets you put a game down and pick it up later. Version 2.1 includes Easy, Medium and Hard, with Expert also noted in the release updates.",
+      "Start with the classic game today. Advanced statistics, No-Guess mode and more are coming in a future update; explore the Coming soon section below."
+    ],
+    "featureRows": [
+      {
+        "feature": "Classic mine-clearing rules",
+        "evidence": "Reveal safe cells, read numbered clues and place flags.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Difficulty choices",
+        "evidence": "Choose Easy, Medium or Hard; release updates also include Expert.",
+        "platform": "iOS version 2.1"
+      },
+      {
+        "feature": "Offline play",
+        "evidence": "Play classic boards offline.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Continue a game later",
+        "evidence": "Save progress automatically and resume your game later.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Advanced metrics and no-guess mode",
+        "evidence": "3BV, 3BV/s, efficiency, detailed history and No-Guess mode are coming in a future update.",
+        "platform": "Coming soon · future update"
+      }
+    ],
+    "sections": [
+      {
+        "title": "What to compare when choosing a Minesweeper game",
+        "paragraphs": [
+          "A timer measures elapsed time, while 3BV estimates a board’s minimum opening work under a particular definition. 3BV/s relates that work to time; efficiency depends on which actions the game counts. Those figures are useful only when the rules and measurement definitions are clear. Learn how those measures work in our guide, then see what is coming in the next update."
+        ]
+      },
+      {
+        "title": "Keep logic and uncertainty separate",
+        "paragraphs": [
+          "A numbered clue constrains the cells around it. If all possible arrangements consistent with the clues agree that a cell is safe, that is a deduction. If they do not, the situation can require more information or a guess. No-Guess mode is coming in a future update."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does Minesweeper include advanced statistics or No-Guess mode?",
+        "answer": "Advanced statistics, including 3BV, 3BV/s and efficiency, and No-Guess mode are Coming soon. They are separate from the current iOS version 2.1 experience."
+      },
+      {
+        "question": "Can I play offline and resume later?",
+        "answer": "Yes. Play offline on iPhone and iPad, with automatic progress saving so you can continue later."
+      },
+      {
+        "question": "Where can I download the game?",
+        "answer": "Use the App Store button on this page to download Minesweeper for iPhone and iPad."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Minesweeper·· on the App Store",
+        "url": "https://apps.apple.com/us/app/id1410833669"
+      }
+    ],
+    "guideSlugs": [
+      "choosing-a-minesweeper-game",
+      "minesweeper-3bv-and-stats"
+    ],
+    "comingSoon": {
+      "intro": "We are preparing an update for players who want to understand each solve, compare their progress and practice deliberately.",
+      "features": [
+        "3BV and 3BV/s tracking, plus efficiency statistics with defined action counting.",
+        "An optional No-Guess mode alongside Classic play.",
+        "Detailed statistics, game history and replay analysis.",
+        "Daily Challenges with an offline calendar and past-day play."
+      ],
+      "availability": "Coming soon: these features are in development for a future iOS update and are not included in the current public version 2.1. Release timing and final details may change."
+    },
+    "metaTitle": "Minesweeper for iPhone & iPad: Classic Offline Puzzles | Puzzle Cats",
+    "description": "Play classic Minesweeper offline on iPhone and iPad. Follow the clues, flag mines and resume your saved board. Advanced statistics and No-Guess mode are coming soon."
+  },
+  "solitaire-word-associations": {
+    "overview": [
+      "Solitaire Word Associations puts complete words on cards and asks you to recognize how they belong together. Category-heading cards form the foundations: place word cards under the appropriate category and work toward clearing the board. The central task is understanding relationships between words, rather than spelling a word from individual letter cards.",
+      "Plan within a move limit, earn stars for clearing boards and use hints or undo when you want help. Offline play lets you keep a word-card puzzle close at hand.",
+      "Follow the story and renovate a mansion as you progress. Solitaire Word Associations is published by Solitaire Games Free Inc.",
+      "Also available on Android as Solitaire Word: Card Puzzles."
+    ],
+    "featureRows": [
+      {
+        "feature": "Word-to-category card sorting",
+        "evidence": "Sort complete word cards onto matching category foundations.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Move-limited boards",
+        "evidence": "Clear boards within a move limit and earn stars.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Hints and undo",
+        "evidence": "Use hints and undo when you want assistance.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Offline play",
+        "evidence": "Enjoy word-card puzzles offline.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Story progression",
+        "evidence": "Follow the story and progress through mansion renovation.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Android download",
+        "evidence": "Get Solitaire Word: Card Puzzles on Google Play.",
+        "platform": "Android"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the category before moving the word",
+        "paragraphs": [
+          "A word may suggest more than one association in ordinary language. Inspect the category headings and the other visible cards before committing a move. When a move uncovers another card, the extra information may help you understand how the remaining groups fit together."
+        ]
+      },
+      {
+        "title": "Word solitaire can mean different things",
+        "paragraphs": [
+          "This game sorts complete word cards by category. A letter-connection puzzle such as Word Hunt instead asks you to construct words from letters. Other games may use the term differently again, so screenshots and a description of the actual move are more useful than the genre name alone."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do I spell words from individual letter cards?",
+        "answer": "No. Place complete word cards into categories in this word-association card puzzle."
+      },
+      {
+        "question": "Is this traditional Spider or Klondike solitaire?",
+        "answer": "No. It uses cards and foundations, but the organizing rule is a word’s category rather than the suits and ranks of a standard playing-card deck."
+      },
+      {
+        "question": "Can I play offline?",
+        "answer": "Yes. The word-card puzzle supports offline play on iPhone and iPad."
+      },
+      {
+        "question": "Are hints and undo available?",
+        "answer": "Yes. Use hints and undo when you want help. See the app for current usage limits and offers."
+      },
+      {
+        "question": "Where can I download the game?",
+        "answer": "Choose the App Store for iPhone and iPad, or Google Play for Android. The Android listing is named Solitaire Word: Card Puzzles."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Solitaire Word Associations on the App Store",
+        "url": "https://apps.apple.com/us/app/id6756082372"
+      },
+      {
+        "title": "Solitaire Word: Card Puzzles on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.solitaire.word.games.card"
+      }
+    ],
+    "guideSlugs": [
+      "word-solitaire-game-types",
+      "choosing-a-solitaire-game"
+    ],
+    "metaTitle": "Solitaire Word Associations: Category Card Puzzles | Puzzle Cats",
+    "description": "Find the connection in Solitaire Word Associations. Sort word cards into categories, earn stars and follow a mansion-renovation story on iPhone and iPad. Also on Android as Solitaire Word: Card Puzzles."
+  },
+  "solitaire-explorer-tripeaks": {
+    "overview": [
+      "Solitaire Explorer: Tripeaks brings the one-higher-or-one-lower rhythm of TriPeaks to a journey through scenic destinations. In the general TriPeaks ruleset, you remove exposed cards by matching a rank immediately above or below the active card. Revealing a covered card can open another route through the layout.",
+      "Set off through scenic destinations with readable cards and a journey map. Each stop brings another TriPeaks board and another chance to plan the chain of cards you want to uncover.",
+      "Enjoy a solitaire journey that gives each hand a destination. Look at the cards in front of you, consider what they will reveal and find your next route through the layout.",
+      "Also available on Android through Google Play."
+    ],
+    "featureRows": [
+      {
+        "feature": "TriPeaks card boards",
+        "evidence": "Play TriPeaks-style solitaire boards.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Journey-map progression",
+        "evidence": "Follow a journey map through new destinations.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Scenic presentation",
+        "evidence": "Enjoy scenic destinations and readable cards.",
+        "platform": "iPhone and iPad"
+      },
+      {
+        "feature": "Android download",
+        "evidence": "Get Solitaire Explorer: TriPeaks on Google Play.",
+        "platform": "Android"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Consider what a move will uncover",
+        "paragraphs": [
+          "When two exposed cards are both playable under a TriPeaks ruleset, compare the cards each move reveals. Opening a covered card can create a longer chain than removing an isolated card. You cannot know every hidden card in advance, so this is a way to examine choices rather than a promise of a winning sequence."
+        ]
+      },
+      {
+        "title": "Learn the app’s rules before chasing a score",
+        "paragraphs": [
+          "Before relying on a long sequence, check how the game handles aces and kings, the draw stock and any special cards. These details vary across TriPeaks games. Our strategy guide explains common decisions, while the app’s current instructions remain the authority for its exact rules and rewards."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this the same game as Spider Solitaire?",
+        "answer": "No. TriPeaks generally removes exposed cards by adjacent rank, while Spider builds complete suited sequences. They ask for different kinds of planning."
+      },
+      {
+        "question": "How do I progress?",
+        "answer": "Complete TriPeaks boards as you follow the journey map through scenic destinations."
+      },
+      {
+        "question": "Which Solitaire Explorer is this?",
+        "answer": "Solitaire Explorer: Tripeaks is published by Solitaire Games Free Inc. Download it with the App Store button on this page."
+      },
+      {
+        "question": "Where can I download the game?",
+        "answer": "Choose the App Store for iPhone and iPad, or Google Play for Android. The Android listing is named Solitaire Explorer: TriPeaks."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Solitaire Explorer: Tripeaks on the App Store",
+        "url": "https://apps.apple.com/us/app/id6759250551"
+      },
+      {
+        "title": "Solitaire Explorer: TriPeaks on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.solitaire.journey.tri.peaks.explorer"
+      }
+    ],
+    "guideSlugs": [
+      "tripeaks-solitaire-strategy",
+      "choosing-a-solitaire-game"
+    ],
+    "metaTitle": "Solitaire Explorer: A Scenic TriPeaks Journey | Puzzle Cats",
+    "description": "Take a scenic solitaire journey in Solitaire Explorer: TriPeaks. Clear card boards and follow the journey map through new destinations on iPhone and iPad. Download for Android on Google Play too."
+  }
+}

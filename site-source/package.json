@@ -1,0 +1,28 @@
+{
+  "name": "puzzlecats-static-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "check": "python3 scripts/check.py",
+    "preview": "python3 scripts/serve.py --port 8794",
+    "qa": "node scripts/visual-qa.mjs",
+    "a11y": "node scripts/accessibility.mjs",
+    "security": "node scripts/security-qa.mjs",
+    "robustness": "node scripts/native-qa.mjs",
+    "animation": "node scripts/native-qa.mjs",
+    "interaction": "node scripts/native-qa.mjs",
+    "performance": "node scripts/native-performance.mjs",
+    "waterfall:review": "node scripts/waterfall-review.mjs",
+    "waterfall:performance": "node scripts/waterfall-performance.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@playwright/test": "1.64.1",
+    "esbuild": "0.28.2"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  }
+}

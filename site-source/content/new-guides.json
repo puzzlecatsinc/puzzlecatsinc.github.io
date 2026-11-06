@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "choosing-a-minesweeper-game",
+    "title": "How to Choose the Best Minesweeper Game for You",
+    "description": "Choose a Minesweeper game that fits your play style. Compare no-guess rules, chording, touch controls, 3BV statistics and offline play.",
+    "created": "2026-11-02",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/choosing-a-minesweeper-game.html",
+    "relatedGames": [
+      "minesweeper"
+    ],
+    "sources": [
+      {
+        "title": "Minesweeper Online: gameplay and no-guess rules",
+        "url": "https://minesweeper.online/help/gameplay"
+      },
+      {
+        "title": "Minesweeper Online: efficiency",
+        "url": "https://minesweeper.online/help/efficiency"
+      },
+      {
+        "title": "Simon Tatham: Mines manual",
+        "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/doc/mines.html"
+      },
+      {
+        "title": "Minesweeper··: official iOS listing",
+        "url": "https://apps.apple.com/us/app/id1410833669"
+      },
+      {
+        "title": "Community question: what does no-guess mean?",
+        "url": "https://www.reddit.com/r/Minesweeper/comments/1trh1yp/what_is_no_guess_mode/"
+      },
+      {
+        "title": "Community feedback: chording and mobile controls",
+        "url": "https://www.reddit.com/r/Minesweeper/comments/1q55egm/built_zsweepcom_a_minesweeper_web_app_would/"
+      }
+    ],
+    "metaTitle": "Best Minesweeper Game? Compare Features | Puzzle Cats"
+  },
+  {
+    "slug": "minesweeper-3bv-and-stats",
+    "title": "Minesweeper 3BV, 3BV/s and Efficiency Explained",
+    "description": "Understand 3BV with two small board examples, calculate 3BV per second and read efficiency without confusing board complexity with logical difficulty.",
+    "created": "2026-11-02",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/minesweeper-3bv-and-stats.html",
+    "relatedGames": [
+      "minesweeper"
+    ],
+    "sources": [
+      {
+        "title": "Minesweeper Online: gameplay and 3BV",
+        "url": "https://minesweeper.online/help/gameplay"
+      },
+      {
+        "title": "Minesweeper Online: efficiency definition",
+        "url": "https://minesweeper.online/help/efficiency"
+      },
+      {
+        "title": "Simon Tatham: automatic openings and clear-around",
+        "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/doc/mines.html"
+      },
+      {
+        "title": "Community question: which statistic should I improve?",
+        "url": "https://www.reddit.com/r/Minesweeper/comments/1ri2mq3/what_stat_should_i_focus_on_improving/"
+      }
+    ],
+    "metaTitle": "Minesweeper 3BV, 3BV/s & Efficiency | Puzzle Cats"
+  },
+  {
+    "slug": "choosing-a-solitaire-game",
+    "title": "Choosing a Solitaire Game: Spider, TriPeaks or Word Cards?",
+    "description": "Compare solitaire styles and practical mobile features: suits, card readability, undo, offline play, advertising and short-session controls.",
+    "created": "2026-11-02",
+    "updated": "2026-11-02",
+    "bodyFile": "reviewed-guides/choosing-a-solitaire-game.html",
+    "relatedGames": [
+      "spider-solitaire",
+      "solitaire-explorer-tripeaks",
+      "solitaire-word-associations",
+      "word-hunt"
+    ],
+    "sources": [
+      {
+        "title": "Spider Solitaire: official iOS listing",
+        "url": "https://apps.apple.com/us/app/id1447178516"
+      },
+      {
+        "title": "Spider Solitaire: official Android listing",
+        "url": "https://play.google.com/store/apps/details?id=com.spider.solitaire.free.card.games"
+      },
+      {
+        "title": "Solitaire Explorer: official iOS listing",
+        "url": "https://apps.apple.com/us/app/id6759250551"
+      },
+      {
+        "title": "Solitaire Word Associations: official iOS listing",
+        "url": "https://apps.apple.com/us/app/id6756082372"
+      },
+      {
+        "title": "Community request: a low-stress solitaire app",
+        "url": "https://www.reddit.com/r/solitaire/comments/1va5ec7/looking_for_a_lowstress_solitaire_app_for_short/"
+      },
+      {
+        "title": "Community request: offline play and win/loss tracking",
+        "url": "https://www.reddit.com/r/solitaire/comments/1iu6j4i/looking_for_a_good_solitaire_app/"
+      }
+    ],
+    "metaTitle": "Choosing a Solitaire Game: Rules & Features | Puzzle Cats"
+  }
+]
